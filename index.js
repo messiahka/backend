@@ -39,11 +39,11 @@ class ProductManager {
 }
 
 const product = new ProductManager()
-product.addProduct('Silla', 'Silla desplegable', '$300','./Img/Silla','250')
-product.addProduct('Ventilador', 'Ventilador de Pie', '$500', './Img/Ventilador','250')
+product.addProduct('Silla', 'Silla desplegable', '$300','./Img/Silla', 250)
+product.addProduct('Ventilador', 'Ventilador de Pie', '$500', './Img/Ventilador', 250)
 product.addProduct('PlayStation', 'Consola de VideoJuegos', '$1000', './Img/PlayStation', 100)
 
 
-// product.getProducts()
+product.getProducts()
 
 product.getProductById(2)
