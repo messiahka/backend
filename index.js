@@ -4,7 +4,7 @@ class ProductManager {
     }
 
     addProduct(title, description, price, thumbnail, stock) {
-        if (title, description, price, thumbnail, stock === undefined) {
+        if (!title || !description || !price || !thumbnail || !stock) {
             console.log('Complete Todos los Campos')
         } else {
             const evento = {
