@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Iphone",
+    "description": "Celular Iphone",
+    "price": 500,
+    "thumbnail": "sin imagen",
+    "code": "iphone3985",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Televisor",
+    "description": "Televisor Hitachi 45 pulgadas",
+    "price": 500,
+    "thumbnail": "sin imagen",
+    "code": "tvhitachi4995",
+    "stock": 26
+  },
+  {
+    "id": 3,
+    "title": "Secador de Pelo",
+    "description": "Secador de Pelo GA-MA",
+    "price": 150,
+    "thumbnail": "sin imagen",
+    "code": "secador1365",
+    "stock": 27
+  },
+  {
+    "id": 4,
+    "title": "Lavarropas",
+    "description": "Lavarropas Whirlpool",
+    "price": 700,
+    "thumbnail": "sin imagen",
+    "code": "lavarropasWhirl1248",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "title": "Cocina",
+    "description": "Cocina Orbis",
+    "price": 400,
+    "thumbnail": "sin imagen",
+    "code": "Cocina7819",
+    "stock": 45
+  },
+  {
+    "id": 6,
+    "title": "Afeitadora",
+    "description": "Afeitadora Phillips triple hoja",
+    "price": 250,
+    "thumbnail": "sin imagen",
+    "code": "afeitadora4520",
+    "stock": 10
+  }
+]
