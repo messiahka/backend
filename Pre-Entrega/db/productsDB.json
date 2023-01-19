@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "title": "Cheese Hamburguer",
+      "description": "Hamburguer with Cheese and Tomatoe",
+      "code": 4552,
+      "price": 250,
+      "status": true,
+      "stock": 40,
+      "category": "hamburguers",
+      "thumbnails": "none"
+    },
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": {
+      "title": "Bacon Hamburguer",
+      "description": "Hamburguer with Bacon and Tomatoe",
+      "code": 3289,
+      "price": 350,
+      "status": true,
+      "stock": 50,
+      "category": "hamburguers",
+      "thumbnails": "none"
+    },
+    "status": true,
+    "thumbnails": []
+  }
+]
