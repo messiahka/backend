@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "title": "Cheese Burguer",
+      "description": "Hamburguer with cheese and Bacon",
+      "code": 5442,
+      "price": 5,
+      "status": true,
+      "stock": 50,
+      "category": "Hamburguers",
+      "thumbnails": "none"
+    },
+    "status": true,
+    "thumbnails": []
+    
+  },
+  {
+    "id": 2,
+    "title": {
+      "title": "Tasty Burguer",
+      "description": "Double burguer with tasty sauce",
+      "code": 6125,
+      "price": 7,
+      "status": true,
+      "stock": 50,
+      "category": "Hamburguers",
+      "thumbnails": "none"
+    },
+    "status": true,
+    "thumbnails": []
+  }
+]
