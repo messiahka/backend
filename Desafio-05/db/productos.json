@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "code": 1,
+    "title": "Producto",
+    "description": "Producto",
+    "price": 100,
+    "thumbnail": [
+      "https://picsum.photos/200/300"
+    ],
+    "stock": 10,
+    "category": "categoria",
+    "status": true
+  },
+  {
+    "id": 2,
+    "code": 2,
+    "title": "Producto",
+    "description": "Producto",
+    "price": 100,
+    "thumbnail": [
+      "https://picsum.photos/200/300"
+    ],
+    "stock": 10,
+    "category": "categoria",
+    "status": true
+  },
+  {
+    "id": 3,
+    "code": 3,
+    "title": "Producto",
+    "description": "Producto",
+    "price": 100,
+    "thumbnail": [
+      "https://picsum.photos/200/300"
+    ],
+    "stock": 10,
+    "category": "categoria",
+    "status": true
+  },
+  {
+    "id": 4,
+    "code": 4,
+    "title": "Producto",
+    "description": "Producto",
+    "price": 100,
+    "thumbnail": [
+      "https://picsum.photos/200/300"
+    ],
+    "stock": 10,
+    "category": "categoria",
+    "status": true
+  },
+  {
+    "id": 5,
+    "code": "5",
+    "title": "PRODUCTO",
+    "description": "PRODUCTO",
+    "price": "100",
+    "thumbnail": [
+      "https://picsum.photos/200/300"
+    ],
+    "stock": "10",
+    "category": "Categoria",
+    "status": true
+  }
+]
