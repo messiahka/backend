@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Cheese Burguer",
+    "status": true,
+    "thumbnails": "none",
+    "description": "Hamburguer with Cheese and Tomatoe (Blue Cheese optional)",
+    "code": 6424,
+    "price": 250,
+    "stock": 30,
+    "category": "hamburguers"
+  },
+  {
+    "id": 2,
+    "title": {
+      "title": "Bacon Hamburguer",
+      "description": "Hamburguer with Bacon and Tomatoe",
+      "code": 3289,
+      "price": 350,
+      "status": true,
+      "stock": 50,
+      "category": "hamburguers",
+      "thumbnails": "none"
+    },
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Burguer de la Casa",
+    "description": "Hamburguer with everything you want",
+    "code": 9999,
+    "price": 350,
+    "status": true,
+    "stock": "hamburguers",
+    "category": "none",
+    "thumbnails": []
+  }
+]
